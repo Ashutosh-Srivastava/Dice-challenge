@@ -1,0 +1,2 @@
+# Dice-challenge
+JavaScript used
